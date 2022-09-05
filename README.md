@@ -1,6 +1,6 @@
 # LSC-APP
 # PL:
-1. Pobierz plik
+1. Pobierz plik jako .zip
 2. Rozpakuj plik .zip do folderu
 3. Kliknij w aplikacje - "LSC - MIŁEK"
 4. Ciesz się aplikacją ;D
