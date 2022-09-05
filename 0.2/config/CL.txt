@@ -1,0 +1,28 @@
+Naprawiono:
+	- Optymalizacja rozruchu aplikacji,
+	- Optymalizacja działań w kategorii "Służba",
+	- Koszt usługi w kategori "Służba" musi być liczbą
+	całkowitą,
+
+Zmieniono:
+	- Rozmieszczenie obiektów w kategorii "Faktura",
+	- Rozmieszczenie obiektów na ekranie głównym,
+	- Rozmiar obszaru do wpisywania części w 
+	kategorii "Faktura",
+	- Sposób kodowania logo,
+
+Dodano:
+	- Ikonę na ekranie głównym, która informuje, czy
+	użytkownik jest aktualnie na służbie,
+	- Kategorię "Full Tune"
+	- Specjalne okno ChangeLog,
+	- Znak informujący o prawach autorskich,
+	- Autoaktualizowanie,
+	- Atomatyczne uzupełnianie danych w 
+	kategorii "Faktura" dla LSPD i EMS,
+	- Logo na ekranie głównym!
+	- Nową kategorię "Ubezpieczenia",
+	- Instrukcję instalacji
+
+Więcej już niedługo!
+	
