@@ -1,12 +1,15 @@
 # LSC-APP
+
 # PL:
-1. Pobierz plik jako .zip
-2. Rozpakuj plik .zip do folderu
-3. Kliknij w aplikacje - "LSC - MIŁEK"
-4. Ciesz się aplikacją ;D
+1. Udaj się tutaj: https://github.com/Milek4/LSC-APP/releases
+2. Pobierz plik .zip/.rar
+3. Rozpakuj plik .zip/.rar do folderu
+4. Kliknij w aplikacje - "LSC - MIŁEK"
+5. Ciesz się aplikacją ;D
 
 # ENG:
-1. Download the file
-2. Unpack the .zip file into a folder
-3. Click on the application - "LSC - MIŁEK"
-4. Enjoy the application; D
+1. Go here: https://github.com/Milek4/LSC-APP/releases
+2. Download the .zip/.rar file
+3. Unpack the .zip/.rar file to a folder
+4. Click on applications - "LSC - MIŁEK"
+5. Enjoy the app ;D
