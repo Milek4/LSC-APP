@@ -28,5 +28,5 @@ Pictures of the app below!!!
 # Liczenie ulepszeń/Enumerating upgrades
 ![image](https://user-images.githubusercontent.com/112907855/208215891-078304cd-c2de-4efa-bbb1-3e9c2745b05c.png)
 
-#Faktury/Invoices
+# Faktury/Invoices
 ![image](https://user-images.githubusercontent.com/112907855/208216206-f1e0f903-046e-4ff2-9a51-cc0561a3602e.png)
