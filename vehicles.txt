@@ -1,186 +1,186 @@
-veh: Issi Sport  250000
-veh: Ford Raptor 2019  4200000
-veh: Toyota Supra mk4  14200000
-veh: Akuma  10000
-veh: Asbo  25000
-veh: Asea  5000
-veh: Avarus  40000
-veh: Bagger  90000
-veh: Baller gen. 2  350000
-veh: Banshee 900R  1200000
-veh: Bati 801RR  100000
-veh: Mercedes-Benz E55 AMG V8  4200000
-veh: Bestia GTS  300000
-veh: BF400  40000
-veh: Bison  35000
-veh: Blade  60000
-veh: Blista  30000
-veh: bmx  5000
-veh: Bobcat XL  80000
-veh: 2020 Bugatti Bolide  130000000
-veh: Brawler  1450000
-veh: Brioso  60000
-veh: Buccaneer niestandardowy  135000
-veh: Buffalo S  300000
-veh: Burrito  80000
-veh: Carbonizzare  250000
-veh: Cheburek  15000
-veh: Cheetah Classic  450000
-veh: Chimera  80000
-veh: Chino Custom  220000
-veh: Clique  400000
-veh: Club  15000
-veh: Comet  250000
-veh: Comet Retro  300000
-veh: Comet SR  400000
-veh: Limitka 10000000
-veh: Contender  150000
-veh: Coquette  250000
-veh: Coquette Classic  250000
-veh: Klasyczne Coquette  6000000
-veh: Coquette gen. 2  900000
-veh: Rower turystyczny  25000
-veh: Cypher  1400000
-veh: Daemon  45000
-veh: Deviant   350000
-veh: Dilettante  15000
-veh: Dominator GTX  800000
-veh: Dominator ASP  600000
-veh: Dominator GTT  500000
-veh: Dubsta gen. 2  500000
-veh: Dubsta Niestandardowa  2200000
-veh: Elegy Retro  900000
-veh: Ellie  380000
-veh: Emerus  1800000
-veh: Entity XXR  1700000
-veh: Entity XF  2000000
-veh: Euros  700000
-veh: Everon  300000
-veh: F620  80000
-veh: Faction – Donk  500000
-veh: Faggio Sport  2000
-veh: Rower  15000
-veh: Honda Civic Type-R IX   7000000
-veh: Laweta  200000
-veh: Freecrawler  560000
-veh: Fugitive  75000
-veh: Gauntlet Hellfire   500000
-veh: Burrito gen. 2  100000
-veh: Hakuchou  120000
-veh: Hauler  150000
-veh: Hellion  890000
-veh: Hermes  150000
-veh: Hexer  30000
-veh: impaler  540000
-veh: Infernus Classic  500000
-veh: Issi  40000
-veh: Issi clasic  25000
-veh: Itali GTO  1800000
-veh: Jester gen. 2  900000
-veh: Jugular  600000
-veh: Kamacho  300000
-veh: Kanjo  35000
-veh: Komoda  700000
-veh: Krieger  1100000
-veh: Lurcher - Karawan  1300000
-veh: BMW M3 E36  4800000
-veh: Ford Mustang Mach-E AWD  5800000
-veh: Mamba  350000
-veh: Manchez  15000
-veh: Golf gen. 2  12800000
-veh: Moonbeam  380000
-veh: Moonbeam Niestandardowy  520000
-veh: Mule  80000
-veh: Neon  1200000
-veh: Nero  1900000
-veh: Nero gen. 2  1950000
-veh: Nightblade  30000
-veh: Nightshade  820000
-veh: Novak  350000
-veh: Oracle  60000
-veh: Outlaw  210000
-veh: Packer  100000
-veh: Panto  5000
-veh: PCJ 600  50000
-veh: Przerobiony Peyote  60000
-veh: Phantom  250000
-veh: Phoenix  300000
-veh: Picador  280000
-veh: Pounder  100000
-veh: Prairie  35000
-veh: Premier  15000
-veh: Previon  80000
-veh: Primo  100000
-veh: X80proto  2000000
-veh: Audi Q8  5200000
-veh: Audi R8 V10  32000000
-veh: Raiden  40000
-veh: Rancher XL  360000
-veh: Ratbike  10000
-veh: Rebla GTS  500000
-veh: Rhapsody  15000
-veh: Riata  530000
-veh: BMW M4 GTS  6300000
-veh: Mustanga GT BOSS 2018  6900000
-veh: Audi RS3 2018  7000000
-veh: Audi RS6  5200000
-veh: Zlom  1000
-veh: Mercedes-Maybach  45000000
-veh: Sabregt Niestandardowy  650000
-veh: Sanchez  15000
-veh: Sanctus  30000
-veh: Sandking  250000
-veh: Schafter  350000
-veh: Schafter V12  450000
-veh: Rower górski  35000
-veh: Seminole Terenowe  310000
-veh: Sentinel  900000
-veh: Sentinel XS  50000
-veh: Slamvan  250000
-veh: Slamvan Paka  275000
-veh: Slamvan Custom  300000
-veh: Slamvan off-road  400000
-veh: Slamvan off-road Deluxe  500000
-veh: Squaddie  12000000
-veh: Stafford  250000
-veh: Stratum  110000
-veh: Stromberg  350000
-veh: Sultan  150000
-veh: Sultan RS  450000
-veh: Super Diamond  200000
-veh: Surfer  60000
-veh: Surge  35000
-veh: T20  2000000
-veh: Tailgater S  200000
-veh: Tampa  100000
-veh: Tampa Drift  250000
-veh: Tempesta  1200000
-veh: Tesla S Tuned  5000000
-veh: Tezeract  1900000
-veh: Thrax  1900000
-veh: Torero  700000
-veh: Toros  700000
-veh: Rower Szosowy - zólty  50000
-veh: Rower Szosowy - czerwony  50000
-veh: Rower Szosowy - niebieski  50000
-veh: Turismo Classic  450000
-veh: Vacca  1500000
-veh: Verus  370000
-veh: Vigero  300000
-veh: Klasyczny Virgo   710000
-veh: Mercedes-Benz G 63 AMG  3700000
-veh: Warrener  25000
-veh: Weevil  8000
-veh: Windsor  40000
-veh: Wolfsbane  80000
-veh: XLS  350000
-veh: xnazwa wyswietlana  1
-veh: Yosemite Niestandardowy  900000
-veh: Yosemite Terenowy  1100000
-veh: Tereonwa Youga  140000
-veh: Zentorno  900000
-veh: Zombiea  85000
-veh: Zombieb  95000
-veh: Zorrusso  1700000
-veh: ZR-350  600000
-veh: Z-Type  800000
+veh:Issi Sport:250000
+veh:Ford Raptor 2019:4200000
+veh:Toyota Supra mk4:14200000
+veh:Akuma:10000
+veh:Asbo:25000
+veh:Asea:5000
+veh:Avarus:40000
+veh:Bagger:90000
+veh:Baller gen. 2:350000
+veh:Banshee 900R:1200000
+veh:Bati 801RR:100000
+veh:Mercedes-Benz E55 AMG V8:4200000
+veh:Bestia GTS:300000
+veh:BF400:40000
+veh:Bison:35000
+veh:Blade:60000
+veh:Blista:30000
+veh:bmx:5000
+veh:Bobcat XL:80000
+veh:2020 Bugatti Bolide:130000000
+veh:Brawler:1450000
+veh:Brioso:60000
+veh:Buccaneer niestandardowy:135000
+veh:Buffalo S:300000
+veh:Burrito:80000
+veh:Carbonizzare:250000
+veh:Cheburek:15000
+veh:Cheetah Classic:450000
+veh:Chimera:80000
+veh:Chino Custom:220000
+veh:Clique:400000
+veh:Club:15000
+veh:Comet:250000
+veh:Comet Retro:300000
+veh:Comet SR:400000
+veh:Contender:150000
+veh:Coquette:250000
+veh:Coquette Classic:250000
+veh:Klasyczne Coquette:6000000
+veh:Coquette gen. 2:900000
+veh:Rower turystyczny:25000
+veh:Cypher:1400000
+veh:Daemon:45000
+veh:Deviant :350000
+veh:Dilettante:15000
+veh:Dominator GTX:800000
+veh:Dominator ASP:600000
+veh:Dominator GTT:500000
+veh:Dubsta gen. 2:500000
+veh:Dubsta Niestandardowa:2200000
+veh:Elegy Retro:900000
+veh:Ellie:380000
+veh:Emerus:1800000
+veh:Entity XXR:1700000
+veh:Entity XF:2000000
+veh:Euros:700000
+veh:Everon:300000
+veh:F620:80000
+veh:Faction – Donk:500000
+veh:Faggio Sport:2000
+veh:Rower:15000
+veh:Honda Civic Type-R IX :7000000
+veh:Laweta:200000
+veh:Freecrawler:560000
+veh:Fugitive:75000
+veh:Gauntlet Hellfire :500000
+veh:Burrito gen. 2:100000
+veh:Hakuchou:120000
+veh:Hauler:150000
+veh:Hellion:890000
+veh:Hermes:150000
+veh:Hexer:30000
+veh:impaler:540000
+veh:Infernus Classic:500000
+veh:Issi:40000
+veh:Issi clasic:25000
+veh:Itali GTO:1800000
+veh:Jester gen. 2:900000
+veh:Jugular:600000
+veh:Kamacho:300000
+veh:Kanjo:35000
+veh:Komoda:700000
+veh:Krieger:1100000
+veh:Lurcher - Karawan:1300000
+veh:BMW M3 E36:4800000
+veh:Ford Mustang Mach-E AWD:5800000
+veh:Mamba:350000
+veh:Manchez:15000
+veh:Golf gen. 2:12800000
+veh:Moonbeam:380000
+veh:Moonbeam Niestandardowy:520000
+veh:Mule:80000
+veh:Neon:1200000
+veh:Nero:1900000
+veh:Nero gen. 2:1950000
+veh:Nightblade:30000
+veh:Nightshade:820000
+veh:Novak:350000
+veh:Oracle:60000
+veh:Outlaw:210000
+veh:Packer:100000
+veh:Panto:5000
+veh:PCJ 600:50000
+veh:Przerobiony Peyote:60000
+veh:Phantom:250000
+veh:Phoenix:300000
+veh:Picador:280000
+veh:Pounder:100000
+veh:Prairie:35000
+veh:Premier:15000
+veh:Previon:80000
+veh:Primo:100000
+veh:X80proto:2000000
+veh:Audi Q8:5200000
+veh:Audi R8 V10:32000000
+veh:Raiden:40000
+veh:Rancher XL:360000
+veh:Ratbike:10000
+veh:Rebla GTS:500000
+veh:Rhapsody:15000
+veh:Riata:530000
+veh:BMW M4 GTS:6300000
+veh:Mustanga GT BOSS 2018:6900000
+veh:Audi RS3 2018:7000000
+veh:Audi RS6:5200000
+veh:Zlom:1000
+veh:Mercedes-Maybach:45000000
+veh:Sabregt Niestandardowy:650000
+veh:Sanchez:15000
+veh:Sanctus:30000
+veh:Sandking:250000
+veh:Schafter:350000
+veh:Schafter V12:450000
+veh:Rower górski:35000
+veh:Seminole Terenowe:310000
+veh:Sentinel:900000
+veh:Sentinel XS:50000
+veh:Slamvan:250000
+veh:Slamvan Paka:275000
+veh:Slamvan Custom:300000
+veh:Slamvan off-road:400000
+veh:Slamvan off-road Deluxe:500000
+veh:Squaddie:12000000
+veh:Stafford:250000
+veh:Stratum:110000
+veh:Stromberg:350000
+veh:Sultan:150000
+veh:Sultan RS:450000
+veh:Super Diamond:200000
+veh:Surfer:60000
+veh:Surge:35000
+veh:T20:2000000
+veh:Tailgater S:200000
+veh:Tampa:100000
+veh:Tampa Drift:250000
+veh:Tempesta:1200000
+veh:Tesla S Tuned:5000000
+veh:Tezeract:1900000
+veh:Thrax:1900000
+veh:Torero:700000
+veh:Toros:700000
+veh:Rower Szosowy - zólty:50000
+veh:Rower Szosowy - czerwony:50000
+veh:Rower Szosowy - niebieski:50000
+veh:Turismo Classic:450000
+veh:Vacca:1500000
+veh:Verus:370000
+veh:Vigero:300000
+veh:Klasyczny Virgo :710000
+veh:Mercedes-Benz G 63 AMG:3700000
+veh:Warrener:25000
+veh:Weevil:8000
+veh:Windsor:40000
+veh:Wolfsbane:80000
+veh:XLS:350000
+veh:xnazwa wyswietlana:1
+veh:Yosemite Niestandardowy:900000
+veh:Yosemite Terenowy:1100000
+veh:Tereonwa Youga:140000
+veh:Zentorno:900000
+veh:Zombiea:85000
+veh:Zombieb:95000
+veh:Zorrusso:1700000
+veh:ZR-350:600000
+veh:Z-Type:800000
+veh:Limitka:10000000
