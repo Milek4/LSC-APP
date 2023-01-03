@@ -33,6 +33,7 @@ veh: Club  15000
 veh: Comet  250000
 veh: Comet Retro  300000
 veh: Comet SR  400000
+veh: Limitka 10000000
 veh: Contender  150000
 veh: Coquette  250000
 veh: Coquette Classic  250000
