@@ -173,7 +173,6 @@ veh:Weevil:8000
 veh:Windsor:40000
 veh:Wolfsbane:80000
 veh:XLS:350000
-veh:xnazwa wyswietlana:1
 veh:Yosemite Niestandardowy:900000
 veh:Yosemite Terenowy:1100000
 veh:Tereonwa Youga:140000
